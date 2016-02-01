@@ -1,0 +1,13 @@
+img {
+  height: 44px;
+  width: 32px;
+}
+
+.movie tr:nth-of-type(even) {
+  background: red ;}
+
+ .results {float: left;}
+
+.search {
+  float: right;
+margin: 20px;}

@@ -1,0 +1,21 @@
+body {background-color: #474B4D}
+
+section {background-color: white;}
+
+li {list-style-type: none;
+display: inline-block;}
+
+li:before {
+  content: " | ";
+}
+
+div.download {display: inline-block;
+}
+button {
+  background-color: green;
+  color: white;
+}
+
+li:first-child {
+
+}
